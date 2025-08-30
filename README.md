@@ -69,8 +69,11 @@ MS SQL Server（JPA / JDBC）
   * 啟用／停權與登入時間追蹤（`login_at`）。
 * **模組擴充（示意）**：設施、巴士、輔具、照服員、活動等之 CRUD 與排程管理。
 
-<img width="1919" height="1079" alt="data" src="https://github.com/user-attachments/assets/da218b31-83ad-4c67-9647-9f72b73c6b07" />
-<img width="1919" height="1079" alt="member" src="https://github.com/user-attachments/assets/3a36c40e-6a70-4904-ae1e-fb26b33df6d1" />
-<img width="1919" height="1079" alt="line" src="https://github.com/user-attachments/assets/e18343f9-6793-4932-b99c-de88c75beede" />
+<img width="780" height="580" alt="data" src="https://github.com/user-attachments/assets/22aa0d9c-025a-4ae5-9ad9-eb4b6df70b54" />
+
+<img width="780" height="580" alt="member" src="https://github.com/user-attachments/assets/7aa1d30c-6c83-4318-af8d-2b8190c80bd2" />
+
+<img width="780" height="580" alt="line" src="https://github.com/user-attachments/assets/5afaa815-33ba-41a8-a58a-ff84184c581a" />
+
 
 
